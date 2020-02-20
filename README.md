@@ -14,14 +14,18 @@ Para más información del proyecto consulta:
 
 ## Participaciones
 
-| Tema                           | Fecha        | Codigo                                                                                                      |
-| ------------------------------ | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| Datos empleo y géneros         | `2019-10-16` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/16-10-19" target="_blank">Archivo</a> |
-| Datos canasta gestión mestrual | `2019-12-04` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/04-12-19" target="_blank">Archivo</a> |
-| Día de los Derechos Humanos    | `2019-12-11` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/11-12-19" target="_blank">Archivo</a> |
-|                                |              |                                                                                                             |
-|                                |              |                                                                                                             |
-|                                |              |                                                                                                             |
+| Tema                           | Fecha        | Codigo                                                                                                        |
+| ------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------- |
+| Datos empleo y géneros         | `2019-10-16` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/16-10-19" target="_blank">Archivo</a>   |
+| Datos canasta gestión mestrual | `2019-12-04` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/04-12-19" target="_blank">Archivo</a>   |
+| Día de los Derechos Humanos    | `2019-12-11` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2019/11-12-19" target="_blank">Archivo</a>   |
+| Casos Nuevo Coronavirus        | `2020-02-12` | <a href="https://duvancho321.github.io/Datos_de_miercoles/Folder/2020/2020-02-12" target="_blank">Archivo</a> |
+|                                |              |                                                                                                               |
+|                                |              |                                                                                                               |
+
+### Semana 37
+
+![](./Folder/2020/2020-02-12/README_files/figure-gfm/unnamed-chunk-6-1.gif)
 
 ### Semana 36
 
